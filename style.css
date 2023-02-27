@@ -1,0 +1,68 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: content-box;
+    font-family: 'TImes New Roman', serif;
+}
+
+body {
+    background-color: hsl(0, 0%, 2%);
+    color: WHite;
+    font: serif;
+}
+
+h1 {
+    font-size: 50px;
+    letter-spacing: 5px;
+    color: white;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/011/728/514/small/abstract-futuristic-neon-wallpaper-purple-pink-dots-on-a-blue-background-texture-for-digital-technology-concept-design-vector.jpg");
+    padding: 20px 0;
+    margin-bottom: 20px ;
+    font-weight: 900;
+}
+
+#html h2 {
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+
+ p { 
+    word-spacing: 3px;
+    letter-spacing: 1px;
+    font-style: italic;
+}
+
+p strong {
+    font-style: normal;
+}
+
+aside p {
+    margin: 20px 0 40px 0;
+}
+/* Table editing area */
+table {
+    background-color: rgb(137, 0, 250);
+}
+
+th, td {
+    border: 1px solid black;
+    margin: 0;
+    padding: 0 5px 0 5px;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+}
+
+.tag {
+    background-color: black;
+}
+
+
+/* Table editing area */
+
+footer {
+    margin: 40px 0;
+}
+
+footer h3 {
+    margin: 0 0 30px 0;
+}
